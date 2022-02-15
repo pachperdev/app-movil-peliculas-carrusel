@@ -2,4 +2,6 @@ hola estimado Cesar, de tejo este documento de texto y el repo donde estare trab
 
 Aun no elijo la tecnologia, pero lo tendre claro en breve. Estamos en contacto.
 
+Tecnologia elegida: html, css, js
+
 Mauricio Pacheco
